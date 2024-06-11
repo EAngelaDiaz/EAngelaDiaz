@@ -9,7 +9,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
--Soy un desarrollador apasionado por crear aplicaciones web limpias con funcionalidad intuitiva. Disfruto el proceso de convertir ideas en realidad utilizando soluciones creativas. Siempre tengo curiosidad por aprender nuevas habilidades, herramientas y conceptos. Además de trabajar en varios proyectos completos en solitario, he trabajado con equipos creativos, lo que implica comunicaciones y presentaciones diarias, control de fuentes y gestión de proyectos.
+-Soy una desarrolladora apasionada por crear aplicaciones web limpias con funcionalidad intuitiva. Disfruto el proceso de convertir ideas en realidad utilizando soluciones creativas. Siempre tengo curiosidad por aprender nuevas habilidades, herramientas y conceptos. Además de trabajar proyectos en solitario, he trabajado en equipo de manera creativa y colaborativa, lo que implica comunicaciones y presentaciones diarias, control de fuentes y gestión de proyectos.
 
 -Me encuentro recien graduada y empezando la busqueda laboral para ser parte de un equipo. Al mismo tiempo aprovecho para seguir capacitandome en nuevas tecnologias.
 
