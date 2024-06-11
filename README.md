@@ -36,4 +36,6 @@
  <a href="mailto:angelaestrelladiaz@outlook.com" style="text-decoration: none; color: #D44638;">
         <i class="fas fa-envelope"></i> Email
     </a>
+    <img src="https://img.icons8.com/color/48/000000/sass.png" href="https://www.linkedin.com/in/angela-estrella-diaz-15b593287" />
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png" href="mailto:angelaestrelladiaz@outlook.com"/>
 
