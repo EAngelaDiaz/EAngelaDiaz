@@ -30,7 +30,7 @@
 </p>
 <p align="center"> <img align="heigth" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" /> </p>
 <h2 align="left" font-weight="bold">Contactame</h2>
-<a href="www.linkedin.com/in/angela-estrella-diaz-15b593287" target="_blank" style="text-decoration: none; color: #0e76a8;">
+<a href="https://www.linkedin.com/in/angela-estrella-diaz-15b593287" target="_blank" style="text-decoration: none; color: #0e76a8;">
         <i class="fab fa-linkedin"></i> LinkedIn
     </a>
  <a href="mailto:angelaestrelladiaz@outlook.com" style="text-decoration: none; color: #D44638;">
