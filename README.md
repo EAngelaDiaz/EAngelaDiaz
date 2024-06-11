@@ -37,7 +37,7 @@
         <i class="fas fa-envelope"></i> Email
     </a>
     
-[![@angelaestrelladiaz@outlook.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "angelaestrelladiaz@outlook.com")](angelaestrelladiaz@outllok.com)
+[![@angelaestrelladiaz@outlook.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "angelaestrelladiaz@outlook.com")](mailto:angelaestrelladiaz@outlook.com)
 
 [![@angela-estrella-diaz-15b593287](https://img.icons8.com/fluency/48/000000/linkedin.png "@angela-estrella-diaz-15b593287")](https://www.linkedin.com/in/angela-estrella-diaz-15b593287/)
   
