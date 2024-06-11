@@ -6,7 +6,7 @@
     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" />
 </p>
 
-<h2 align="left" font-weight="bold">About me</h2>  
+<h2 align="left" font-weight="bold">Sobre mi</h2>  
 <br><br>
 
 -Soy una desarrolladora apasionada por crear aplicaciones web limpias con funcionalidad intuitiva. Disfruto el proceso de convertir ideas en realidad utilizando soluciones creativas. Siempre tengo curiosidad por aprender nuevas habilidades, herramientas y conceptos. Además de trabajar proyectos en solitario, he trabajado en equipo de manera creativa y colaborativa, lo que implica comunicaciones y presentaciones diarias, control de fuentes y gestión de proyectos.
@@ -17,7 +17,7 @@
  </center>
 </p>
 <br>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h2 font-weight="bold">Habilidades</h2>
 <p>
   🔸JavaScript 
   🔸HTML 
@@ -29,4 +29,11 @@
   🔸Sequelize🔸
 </p>
 <p align="center"> <img align="heigth" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" /> </p>
+<h2 align="left" font-weight="bold">Contactame</h2>
+<a href="www.linkedin.com/in/angela-estrella-diaz-15b593287" target="_blank" style="text-decoration: none; color: #0e76a8;">
+        <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
+ <a href="mailto:angelaestrelladiaz@outlook.com" style="text-decoration: none; color: #D44638;">
+        <i class="fas fa-envelope"></i> Email
+    </a>
 
